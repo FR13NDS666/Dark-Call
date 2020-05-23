@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-# Coded by Rendy Andhika
+# Coded by Andini Amubia
 """
 ngapai bosq? mau recode?
 tinggal pake aja susah amat sih?!
@@ -20,7 +20,7 @@ g=('\033[1;32m')
 w=('\033[1;37m')
 print("""%s
 	         
-█████████        Pencipta: Yoga Wira 
+█████████        Pencipta: Mr.KRYPTON
 █▄█████▄█      ●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬●
 █▼▼▼▼▼\033[1;94m- _ --_--                                        
 \033[1;96m█                     
