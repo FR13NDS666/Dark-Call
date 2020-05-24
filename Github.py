@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-# Coded by Rendy Andhika
+# Coded by FR13NDS
 """
 ngapai bosq? mau recode?
 tinggal pake aja susah amat sih?!
@@ -20,7 +20,7 @@ g=('\033[1;32m')
 w=('\033[1;37m')
 print("""%s
 	         
-█████████        Pencipta: Yoga Wira 
+█████████        Pencipta: FR13NDS
 █▄█████▄█      ●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬●
 █▼▼▼▼▼\033[1;94m- _ --_--                                        
 \033[1;96m█                     
@@ -31,10 +31,10 @@ print("""%s
 \033[1;96m ██ ██ 
  	
 \033[1;95m¤°¤°¤°¤°¤°¤°¤°¤°¤°¤°¤°¤°¤°¤°¤°¤°¤°¤°¤°¤ ¤°¤°¤°¤°¤°¤°¤
-%s\033[1;93mAuthor: Mr.BV%s 
-%s\033[1;93mFB: Yoga Wira%s 
-%s\033[1;93mGithub: Rahasia Jancok%s 
-%s\033[1;93mTEAM: Brother (B.VH/Brother_ID)%s
+%s\033[1;93mAuthor: Mr.krypton%s 
+%s\033[1;93mFB: FR13NDS%s 
+%s\033[1;93mGithub:FR13NDS666%s 
+%s\033[1;93mTEAM: Brother (TERMUX)%s
 \033[1;95m¤°¤°¤°¤°¤°¤°¤°¤°¤°¤°¤°¤°¤°¤°¤°¤ ¤°¤°¤°¤°¤°¤°¤°¤°¤°¤°¤                                        
 %sMASUKAN NOMOR ANDA "62" (EX: 628XXXXXX)%s
 
@@ -72,4 +72,4 @@ try:
 		print("="*30)
 		time.sleep(1)
 except KeyboardInterrupt:
-	print("%ssampai jumpa gan..."%(c))
+	print("%ssampai jumpa gan sayang..."%(c))
